@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Network;SystemTray;Utility;
+Comment=Manage Cloudflare WARP
+Exec=<install path>
+GenericName=WARP Controller
+Icon=goa-account-owncloud
+Keywords=network;warp;cloud;cloudflare
+Name=Cloudflare System Tray Controller
+NoDisplay=false
+StartupNotify=false
+Terminal=false
+Type=Application
